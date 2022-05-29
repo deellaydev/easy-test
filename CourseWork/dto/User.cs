@@ -1,0 +1,8 @@
+﻿
+namespace CourseWork
+{
+    interface IUser
+    {
+        
+    }
+}
